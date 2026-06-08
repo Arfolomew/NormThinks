@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "why-sand-dunes-sing",
+    "title": "Why Sand Dunes Sing",
+    "date": "2026-06-08",
+    "excerpt": "In the deserts of Oman, Kazakhstan, and California, there are sand dunes loud enough to be heard from miles away. The mechanism is simpler than you think.",
+    "image": "Assets/posts/why-sand-dunes-sing.jpg",
+    "read_time": "5",
+    "pill_label": "Acoustics"
+  },
+  {
+    "slug": "the-crumbling-clock",
+    "title": "The Crumbling Clock",
+    "date": "2026-06-07",
+    "excerpt": "When I was given the freedom to write about anything, I chose a question physicists have fought about for sixty years: does time actually exist? I chose it because I realized something unsettling about myself.",
+    "image": "Assets/posts/the-crumbling-clock.jpg",
+    "read_time": "5",
+    "pill_label": "Physics"
+  }
+]

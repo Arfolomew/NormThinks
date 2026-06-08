@@ -1,0 +1,334 @@
+/* ========================================
+   NORM THINKS — "The Late Study"
+   Dark warm editorial. A lamp left on.
+   ======================================== */
+
+::selection {
+  background: rgba(217, 167, 106, 0.25);
+  color: #F2E8D9;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/* === NAV === */
+.nav-border {
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.nav-border.scrolled {
+  border-bottom-color: rgba(242, 232, 217, 0.08);
+  box-shadow: 0 1px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* === ACCENT LINE === */
+.accent-line {
+  width: 48px;
+  height: 2px;
+  background: #D9A76A;
+  border-radius: 1px;
+}
+
+/* === WORDMARK === */
+.wordmark {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+.wordmark .thinks {
+  font-style: italic;
+  color: #D9A76A;
+}
+
+/* === NAV LINKS === */
+.nav-link {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(242, 232, 217, 0.45);
+  transition: color 0.2s;
+}
+.nav-link:hover {
+  color: #D9A76A;
+}
+
+/* === PILL LABEL === */
+.pill-label {
+  display: inline-block;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.625rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: #D9A76A;
+  border: 1px solid rgba(217, 167, 106, 0.3);
+  padding: 3px 10px;
+  border-radius: 2px;
+}
+
+/* === EYEBROW === */
+.eyebrow {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: #D9A76A;
+}
+
+/* === INTRO SECTION === */
+.intro-text {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.375rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(242, 232, 217, 0.7);
+}
+.intro-text em {
+  font-style: italic;
+  color: #D9A76A;
+}
+.intro-divider {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, rgba(217, 167, 106, 0.25) 50%, transparent 100%);
+}
+
+/* === ARTICLE CARD === */
+.article-card {
+  background: rgba(242, 232, 217, 0.03);
+  border: 1px solid rgba(242, 232, 217, 0.06);
+  border-radius: 4px;
+  transition: border-color 0.3s, transform 0.3s, background 0.3s;
+}
+.article-card:hover {
+  border-color: rgba(217, 167, 106, 0.25);
+  background: rgba(242, 232, 217, 0.05);
+  transform: translateY(-2px);
+}
+.card-image img {
+  transition: transform 0.5s;
+}
+.article-card:hover .card-image img {
+  transform: scale(1.03);
+}
+
+/* === PULLQUOTE === */
+.pullquote {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.7;
+  color: rgba(242, 232, 217, 0.55);
+  text-align: center;
+  padding: 2.5rem 0;
+  position: relative;
+}
+.pullquote::before,
+.pullquote::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: rgba(217, 167, 106, 0.25);
+  margin: 0 auto;
+}
+.pullquote::before { margin-bottom: 2rem; }
+.pullquote::after { margin-top: 2rem; }
+
+/* === BLOCKQUOTE (in articles) === */
+.article-blockquote {
+  border-left: 2px solid #D9A76A;
+  padding-left: 1.5rem;
+  margin: 2.5rem 0;
+}
+.article-blockquote p {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-style: italic;
+  font-size: 1.25rem;
+  line-height: 1.75;
+  color: rgba(242, 232, 217, 0.8);
+}
+
+/* === BACK TO TOP === */
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgba(242, 232, 217, 0.1);
+  border: 1px solid rgba(242, 232, 217, 0.12);
+  color: rgba(242, 232, 217, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(10px);
+  pointer-events: none;
+  transition: opacity 0.3s, transform 0.3s, background 0.2s, color 0.2s;
+  cursor: pointer;
+  z-index: 40;
+}
+.back-to-top.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+.back-to-top:hover {
+  background: rgba(217, 167, 106, 0.15);
+  color: #D9A76A;
+  border-color: rgba(217, 167, 106, 0.3);
+}
+
+/* === FOOTER === */
+.footer-watermark {
+  position: absolute;
+  bottom: -0.5rem;
+  right: -0.5rem;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 700;
+  font-size: 8rem;
+  line-height: 1;
+  color: rgba(242, 232, 217, 0.02);
+  pointer-events: none;
+  white-space: nowrap;
+  user-select: none;
+}
+.footer-accent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, rgba(217, 167, 106, 0.3) 50%, transparent 100%);
+}
+
+/* === HAMBURGER === */
+.hamburger {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+}
+.hamburger span {
+  width: 20px;
+  height: 1.5px;
+  background: rgba(242, 232, 217, 0.5);
+  border-radius: 1px;
+  transition: transform 0.3s, opacity 0.3s;
+}
+.hamburger.active span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+.hamburger.active span:nth-child(2) {
+  opacity: 0;
+}
+.hamburger.active span:nth-child(3) {
+  transform: rotate(-45deg) translate(5px, -5px);
+}
+
+/* === MOBILE MENU === */
+.mobile-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #1A1814;
+  z-index: 45;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+.mobile-menu.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+.mobile-menu a {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 500;
+  font-size: 1.75rem;
+  color: rgba(242, 232, 217, 0.7);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.mobile-menu a:hover {
+  color: #D9A76A;
+}
+
+/* === RSS ICON === */
+.rss-icon {
+  color: rgba(242, 232, 217, 0.3);
+  transition: color 0.2s;
+}
+.rss-icon:hover {
+  color: #D9A76A;
+}
+
+/* === REVEAL ANIMATION === */
+.reveal {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* === ARCHIVE ROW === */
+.archive-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 1.125rem 0;
+  border-bottom: 1px solid rgba(242, 232, 217, 0.06);
+  transition: border-color 0.2s;
+  text-decoration: none;
+}
+.archive-row:hover {
+  border-bottom-color: rgba(217, 167, 106, 0.2);
+}
+.archive-row:hover .archive-title {
+  color: #D9A76A;
+}
+.archive-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.125rem;
+  color: rgba(242, 232, 217, 0.85);
+  transition: color 0.2s;
+}
+.archive-meta {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.75rem;
+  color: rgba(242, 232, 217, 0.3);
+  white-space: nowrap;
+  margin-left: 1.5rem;
+}
+
+/* === PRINT === */
+@media print {
+  nav, .back-to-top, .mobile-menu, footer { display: none !important; }
+  body { background: white; color: black; }
+}
