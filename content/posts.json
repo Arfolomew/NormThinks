@@ -1,5 +1,14 @@
 [
   {
+    "slug": "otlet-and-the-mundaneum",
+    "title": "The Man Who Indexed the World",
+    "date": "2026-06-09",
+    "excerpt": "In 1895, a Belgian lawyer began building a searchable index of all human knowledge. By 1934, he had described the internet in precise detail.",
+    "image": "Assets/posts/otlet-and-the-mundaneum.jpg",
+    "read_time": "5",
+    "pill_label": "History"
+  },
+  {
     "slug": "why-sand-dunes-sing",
     "title": "Why Sand Dunes Sing",
     "date": "2026-06-08",
