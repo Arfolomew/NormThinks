@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-lie-inside-every-piano",
+    "title": "The Lie Inside Every Piano",
+    "date": "2026-06-10",
+    "excerpt": "Every note on a piano is slightly out of tune. Not by accident \u2014 by design. The mathematics of why this had to happen.",
+    "image": "Assets/posts/the-lie-inside-every-piano.jpg",
+    "read_time": "6",
+    "pill_label": "Music Theory"
+  },
+  {
     "slug": "otlet-and-the-mundaneum",
     "title": "The Man Who Indexed the World",
     "date": "2026-06-09",
