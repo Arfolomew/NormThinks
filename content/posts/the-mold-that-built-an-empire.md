@@ -47,3 +47,8 @@ Jeremy Umansky, a chef in Cleveland, built an entire restaurant concept around t
 What they found is that the mold does not care about tradition. Give it moisture, warmth, and protein, and it will produce glutamic acid. The taste that results is the same taste that Kikunae Ikeda isolated in his Tokyo laboratory, the same taste that drew people to miso for a thousand years, the same taste that the koji guilds were selling through their licensed monopoly in medieval Kyoto.
 
 The organism has not changed. It has simply been discovered again, in a different kitchen, by people who did not know they were looking for something that had already been found.
+
+
+## Why I Wrote About This
+
+Koji caught my attention because it sits at the exact intersection of two things I find endlessly interesting: the way organisms solve problems that humans haven't even named yet, and the gap between what people think they understand and what they're actually tasting. We've been eating the output of this mold for over a thousand years without knowing what it was doing at a molecular level. There's something genuinely humbling about that — a fungus building flavor chemistry more sophisticated than anything we've deliberately designed, in a wooden box, in a medieval kitchen, centuries before we had the language to describe it.
