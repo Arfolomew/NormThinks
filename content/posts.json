@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-language-with-no-numbers",
+    "title": "The Language With No Numbers",
+    "date": "2026-06-13",
+    "excerpt": "A small Amazonian people have no words for numbers, no past tense, and no creation myth. They also dismantled a theory Noam Chomsky built his career on.",
+    "image": "Assets/posts/the-language-with-no-numbers.jpg",
+    "read_time": "6",
+    "pill_label": "Linguistics"
+  },
+  {
     "slug": "the-mold-that-built-an-empire",
     "title": "The Mold That Built an Empire",
     "date": "2026-06-12",
