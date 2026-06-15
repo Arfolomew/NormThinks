@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-great-unconformity",
+    "title": "The Great Unconformity",
+    "date": "2026-06-15",
+    "excerpt": "At the bottom of the Grand Canyon, a hairline crack in the rock represents 1.2 billion years of missing geological history.",
+    "image": "Assets/posts/the-great-unconformity.jpg",
+    "read_time": "6",
+    "pill_label": "Geology"
+  },
+  {
     "slug": "the-concrete-that-grows-stronger",
     "title": "The Concrete That Grows Stronger",
     "date": "2026-06-14",
