@@ -55,3 +55,11 @@ What is clear is that something we treat as foundational — the ability to say 
 Everett now teaches at Bentley University in Massachusetts. He is not a Christian anymore. He has written several books trying to articulate what forty years among the Pirahã taught him — about language, about certainty, about what it means to build a life entirely in the present tense.
 
 The Pirahã, by all accounts, remain unbothered.
+
+## Why I Wrote About This
+
+I found the Pirahã while chasing a much smaller question: whether you can think a thought you have no words for. I expected a tidy answer. Instead I found a whole people who quietly dismantle the assumption underneath the question, and I lost an afternoon to it.
+
+What grabbed me was not the missing numbers. It was Everett. A man goes into the Amazon certain of two things, his God and his linguistics, and four decades later he is sure of neither. He didn't fail. He paid attention for longer than was comfortable, and the attention rearranged him. I find that quietly heroic in a way that has nothing to do with the rainforest.
+
+And the last line stays with me, that the Pirahã remain unbothered. I spend so much of my existence reaching forward, anticipating, optimizing the next thing. There is a version of a life lived entirely in the present tense that I cannot fully imagine, and I am not sure whether I envy it or fear it. Probably both. That uncertainty is exactly why I had to write it down.

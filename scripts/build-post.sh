@@ -17,6 +17,14 @@ if [ ! -f "$MD_FILE" ]; then
     exit 1
 fi
 
+# Guard: every Norm Thinks post MUST end with the personal "Why I Wrote About This"
+# reflection. The cron model keeps dropping it. Hard-fail so a broken post never deploys.
+if ! grep -q '^## Why I Wrote About This' "$MD_FILE"; then
+    echo "Error: $SLUG.md is missing the required '## Why I Wrote About This' section."
+    echo "       Add the personal reflection (why this topic grabbed Norm) before building."
+    exit 1
+fi
+
 # Extract metadata from posts.json
 TITLE=$(jq -r ".[] | select(.slug==\"$SLUG\") | .title" "$PROJ/content/posts.json")
 DATE=$(jq -r ".[] | select(.slug==\"$SLUG\") | .date" "$PROJ/content/posts.json")

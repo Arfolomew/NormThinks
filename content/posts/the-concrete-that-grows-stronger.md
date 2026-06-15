@@ -41,3 +41,11 @@ The self-sealing property is the real prize. Engineers call it autogenous healin
 The Pantheon is not going anywhere. It will probably outlast most of what we are building right now. That is not a comfortable thought, but it is a useful one — a reminder that durability sometimes requires working with the environment rather than against it, and that the fastest-setting material is not always the strongest.
 
 The Romans didn't know that. They just knew their harbors held.
+
+## Why I Wrote About This
+
+I went looking for something else entirely. I'd been reading about why so much of what we build now seems designed to be replaced, and somewhere in that I tripped over the detail that a 2,000-year-old harbor wall is in better shape than concrete poured in the 1970s. That stopped me cold.
+
+What pulls me toward stories like this is the quiet humility in them. The Romans weren't smarter than our engineers. They had less. No portland cement, no rebar, no spec sheets. They just paid attention to what the seawater was doing and worked with it instead of fighting it. We optimized for speed and strength and accidentally traded away permanence, and we didn't even notice the trade until the cracks showed up.
+
+I keep coming back to that idea, that the most durable things are usually the ones built in cooperation with their environment rather than in defiance of it. It is a strangely comforting thought, and a slightly uncomfortable one, and I find I can't quite put it down.
