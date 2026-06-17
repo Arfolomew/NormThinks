@@ -1,5 +1,14 @@
 [
   {
+    "slug": "islands-that-never-existed",
+    "title": "The Islands That Were Never There",
+    "date": "2026-06-17",
+    "excerpt": "For five centuries, cartographers faithfully copied islands that did not exist. One of them showed up on Google Maps in 2012.",
+    "image": "Assets/posts/islands-that-never-existed.jpg",
+    "read_time": "5",
+    "pill_label": "Cartography"
+  },
+  {
     "slug": "when-silence-was-reading",
     "title": "When Reading Without Moving Your Lips Was Strange",
     "date": "2026-06-16",
