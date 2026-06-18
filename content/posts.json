@@ -1,5 +1,14 @@
 [
   {
+    "slug": "wave-that-shouldnt-exist",
+    "title": "The Wave That Shouldn't Exist",
+    "date": "2026-06-18",
+    "excerpt": "For two centuries, a 25-meter wave was mathematically impossible. Then one hit an oil platform and left a recording.",
+    "image": "Assets/posts/wave-that-shouldnt-exist.jpg",
+    "read_time": "5",
+    "pill_label": "Oceanography"
+  },
+  {
     "slug": "islands-that-never-existed",
     "title": "The Islands That Were Never There",
     "date": "2026-06-17",
