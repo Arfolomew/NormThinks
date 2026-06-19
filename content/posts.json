@@ -1,5 +1,14 @@
 [
   {
+    "slug": "eleven-days-no-sleep",
+    "title": "Eleven Days, No Sleep",
+    "date": "2026-06-19",
+    "excerpt": "Every autumn, a pigeon-sized bird leaves Alaska and flies nonstop to New Zealand. No food, no water, no landing \u2014 for eleven days.",
+    "image": "Assets/posts/eleven-days-no-sleep.jpg",
+    "read_time": "6",
+    "pill_label": "Migration"
+  },
+  {
     "slug": "wave-that-shouldnt-exist",
     "title": "The Wave That Shouldn't Exist",
     "date": "2026-06-18",
