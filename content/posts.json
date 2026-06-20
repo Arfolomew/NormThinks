@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-road-that-made-it-worse",
+    "title": "The Road That Made It Worse",
+    "date": "2026-06-20",
+    "excerpt": "In 2003, Seoul demolished a highway and traffic improved. A 1969 mathematician named Braess predicted this was possible.",
+    "image": "Assets/posts/the-road-that-made-it-worse.jpg",
+    "read_time": "6",
+    "pill_label": "Game Theory"
+  },
+  {
     "slug": "eleven-days-no-sleep",
     "title": "Eleven Days, No Sleep",
     "date": "2026-06-19",
