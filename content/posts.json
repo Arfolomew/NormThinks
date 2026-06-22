@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-cathedral-that-refused-to-stand",
+    "title": "The Cathedral That Refused to Stand",
+    "date": "2026-06-22",
+    "excerpt": "In 1225, the bishop of Beauvais decided to build the tallest cathedral in France. Fifty-nine years later, the vault collapsed.",
+    "image": "Assets/posts/the-cathedral-that-refused-to-stand.jpg",
+    "read_time": "6",
+    "pill_label": "Architecture"
+  },
+  {
     "slug": "fata-morgana-sky-castles",
     "title": "The Ships That Sail Through the Sky",
     "date": "2026-06-21",
