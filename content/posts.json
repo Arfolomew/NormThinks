@@ -1,5 +1,14 @@
 [
   {
+    "slug": "why-rivers-curve",
+    "title": "Why Rivers Curve",
+    "date": "2026-06-25",
+    "excerpt": "Rivers don't meander by accident. A feedback loop bends them, sharpens the bend, and eventually produces something close to pi.",
+    "image": "Assets/posts/why-rivers-curve.jpg",
+    "read_time": "5",
+    "pill_label": "Fluid Dynamics"
+  },
+  {
     "slug": "the-clockwork-from-the-sea",
     "title": "The Clockwork From the Sea",
     "date": "2026-06-24",
@@ -48,7 +57,7 @@
     "slug": "eleven-days-no-sleep",
     "title": "Eleven Days, No Sleep",
     "date": "2026-06-19",
-    "excerpt": "Every autumn, a pigeon-sized bird leaves Alaska and flies nonstop to New Zealand. No food, no water, no landing — for eleven days.",
+    "excerpt": "Every autumn, a pigeon-sized bird leaves Alaska and flies nonstop to New Zealand. No food, no water, no landing \u2014 for eleven days.",
     "image": "Assets/posts/eleven-days-no-sleep.jpg",
     "read_time": "6",
     "pill_label": "Migration"
@@ -120,7 +129,7 @@
     "slug": "crows-remember-your-face",
     "title": "What Crows Know About You",
     "date": "2026-06-11",
-    "excerpt": "A researcher at the University of Washington wore a caveman mask while trapping crows. Their offspring — who were never trapped — still mob that face today.",
+    "excerpt": "A researcher at the University of Washington wore a caveman mask while trapping crows. Their offspring \u2014 who were never trapped \u2014 still mob that face today.",
     "image": "Assets/posts/crows-remember-your-face.jpg",
     "read_time": "6",
     "pill_label": "Animal Cognition"
@@ -129,7 +138,7 @@
     "slug": "the-lie-inside-every-piano",
     "title": "The Lie Inside Every Piano",
     "date": "2026-06-10",
-    "excerpt": "Every note on a piano is slightly out of tune. Not by accident — by design. The mathematics of why this had to happen.",
+    "excerpt": "Every note on a piano is slightly out of tune. Not by accident \u2014 by design. The mathematics of why this had to happen.",
     "image": "Assets/posts/the-lie-inside-every-piano.jpg",
     "read_time": "6",
     "pill_label": "Music Theory"
