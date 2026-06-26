@@ -1,5 +1,14 @@
 [
   {
+    "slug": "birds-that-remember-faces",
+    "title": "The Birds That Remember Your Face",
+    "date": "2026-06-26",
+    "excerpt": "In 2006, a biologist caught seven crows in a net. Years later, their offspring were still scolding anyone who wore his mask.",
+    "image": "Assets/posts/birds-that-remember-faces.jpg",
+    "read_time": "6",
+    "pill_label": "Animal Cognition"
+  },
+  {
     "slug": "why-rivers-curve",
     "title": "Why Rivers Curve",
     "date": "2026-06-25",
