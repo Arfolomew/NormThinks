@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-door-you-didnt-choose",
+    "title": "The Door You Didn't Choose",
+    "date": "2026-06-27",
+    "excerpt": "In 1990, Marilyn vos Savant answered a probability puzzle and received 10,000 angry letters from people who were wrong.",
+    "image": "Assets/posts/the-door-you-didnt-choose.jpg",
+    "read_time": "7",
+    "pill_label": "Probability"
+  },
+  {
     "slug": "birds-that-remember-faces",
     "title": "The Birds That Remember Your Face",
     "date": "2026-06-26",
