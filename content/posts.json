@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-lie-every-piano-tells",
+    "title": "The Lie Every Piano Tells",
+    "date": "2026-06-29",
+    "excerpt": "Every piano in the world is mathematically out of tune. Not by accident. By design, as a compromise three centuries in the making.",
+    "image": "Assets/posts/the-lie-every-piano-tells.jpg",
+    "read_time": "6",
+    "pill_label": "Music Theory"
+  },
+  {
     "slug": "the-color-with-no-wavelength",
     "title": "The Color With No Wavelength",
     "date": "2026-06-28",
