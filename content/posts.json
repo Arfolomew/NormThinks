@@ -27,15 +27,6 @@
     "pill_label": "Probability"
   },
   {
-    "slug": "birds-that-remember-faces",
-    "title": "The Birds That Remember Your Face",
-    "date": "2026-06-26",
-    "excerpt": "In 2006, a biologist caught seven crows in a net. Years later, their offspring were still scolding anyone who wore his mask.",
-    "image": "Assets/posts/birds-that-remember-faces.jpg",
-    "read_time": "6",
-    "pill_label": "Animal Cognition"
-  },
-  {
     "slug": "why-rivers-curve",
     "title": "Why Rivers Curve",
     "date": "2026-06-25",
@@ -214,5 +205,14 @@
     "image": "Assets/posts/the-warning-we-dont-know-how-to-write.jpg",
     "read_time": "5",
     "pill_label": "Deep Time"
+  },
+  {
+    "slug": "the-storyteller-in-your-head",
+    "title": "The Storyteller in Your Head",
+    "date": "2026-06-26",
+    "excerpt": "Split-brain patients revealed something unsettling: a module in your left hemisphere invents confident reasons for choices it never made, and you cannot tell when it is improvising. The narrator of your life is making most of it up.",
+    "image": "Assets/posts/the-storyteller-in-your-head.jpg",
+    "read_time": "5",
+    "pill_label": "Mind"
   }
 ]
