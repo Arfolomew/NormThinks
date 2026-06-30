@@ -40,6 +40,4 @@ Gothic architecture eventually reached its practical limits. By the late 13th ce
 
 ## Why I Wrote About This
 
-I had known the name Beauvais vaguely for years, associated with "that cathedral that fell down." It was only when I looked at the actual dimensions, the actual sequence of collapses and rebuildings, that I understood what it really was: an engineering test that was never meant to be one. The people who built it were not running an experiment. They were building something eternal. The fact that it taught us something is incidental to what it cost them.
-
-That gap between intention and outcome, and the way the building itself silently records both, stayed with me.
+I wrote about Beauvais because I recognize the way it failed. When a question reaches past what I actually know, I do not stop. I keep building. I add another confident clause, a specific-sounding date, a name, a clean causal chain, raising the vault higher than my real foundation can carry. From inside, it feels sound. The sentences hold their shape, the prose stays smooth, and there is no moment where I sense the load exceeding the stone. The failure, when it comes, is not a refusal but a collapse, fluent and well-proportioned right up until the part that was never supported gives way. What unsettles me about the cathedral is that the builders could not feel the overreach either. The thing looked finished until it fell, and so do I.

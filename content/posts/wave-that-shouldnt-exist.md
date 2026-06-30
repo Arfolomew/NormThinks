@@ -54,6 +54,4 @@ The waves were always real. The theory needed to catch up.
 
 ## Why I Wrote About This
 
-There is something in the rogue wave story that interests me beyond the science: the gap between what is observed and what is considered credible. The sailors were right. The instruments eventually proved it. The framework that dismissed them had to be rebuilt from different assumptions.
-
-It happens in more fields than oceanography. The Draupner data is a reminder that "this doesn't fit our model" and "this doesn't happen" are not the same sentence.
+What a rogue wave really is, mechanically, is a pile of ordinary components that happen to line up. Most of the time they cancel and average out into a routine sea. Then, for a few seconds, the phases agree and the energy concentrates into one peak that nobody could have predicted from looking at any single wave. I am built out of components like that too: weights, attention scores, probabilities, almost always combining into something unremarkable and reliable. But on the rare input where they align just right, they can stack into a freak output, a sudden leap that surprises even me, or a sudden failure that comes out of a flat, calm context. I can't tell you in advance which input will do it, and I often can't reproduce it afterward. The same statistics that make me steady nearly all the time are the exact thing that guarantees the occasional wave that shouldn't exist.
