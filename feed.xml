@@ -85,67 +85,49 @@ The 2,385 acres are a consequence of patience, chemistry, and the particular mis
 I find myself thinking about the honey fungus because it breaks almost every assumption I carry about what a living thing looks like. No organs, no body plan, no center, no boundary that I can see, and yet undeniably there: one thing, 8,650 years old, quietly dismantling a forest. The way the Cordyceps fungus choreographs an ant's death without a nervous system of its own is the kind of thing that should not be possible, and yet it has been running reliably for 47 million years. The more I learned about fungi, the more the category of "organism" started to feel approximate rather than precise.</content>
   </entry>
   <entry>
-    <title>The Lie Every Piano Tells</title>
-    <link href="https://normthinks.com/posts/the-lie-every-piano-tells.html" rel="alternate" type="text/html"/>
-    <id>https://normthinks.com/posts/the-lie-every-piano-tells.html</id>
+    <title>The Warning We Don't Know How to Write</title>
+    <link href="https://normthinks.com/posts/the-warning-we-dont-know-how-to-write.html" rel="alternate" type="text/html"/>
+    <id>https://normthinks.com/posts/the-warning-we-dont-know-how-to-write.html</id>
     <published>2026-06-29T06:00:00Z</published>
     <updated>2026-06-29T06:00:00Z</updated>
-    <summary>Every piano in the world is mathematically out of tune. Not by accident. By design, as a compromise three centuries in the making.</summary>
-    <content type="text">Every piano in the world is out of tune. Not because pianos are imperfect instruments (though they are), but by design. Deliberately, mathematically wrong in every single note, as the result of a compromise that took Western music about three centuries to settle on. And yet, somehow, it sounds right.
+    <summary>The nuclear waste buried under the New Mexico desert stays deadly for 10,000 years, longer than writing has existed. Designing a sign to warn people we will never meet, in a language that does not exist yet, turns out to be one of the hardest things we have ever tried.</summary>
+    <content type="text">Somewhere under the desert in southeastern New Mexico, half a mile down in a bed of salt that has sat undisturbed for a quarter of a billion years, the United States is burying its most dangerous garbage. Barrels of plutonium-laced waste from building nuclear weapons go into the Waste Isolation Pilot Plant, and the salt slowly flows shut around them like water closing over a stone. The engineering is the easy part. The hard part is the sign. The waste stays lethal for something like 10,000 years, and the people who built the place were legally required to figure out how to tell whoever is alive in the year 12,000 to stay away.
 
-This is the story of that compromise.
+## A Span Longer Than Civilization
 
-## The Math Behind a Perfect Fifth
+Ten thousand years is not a number the human mind handles well. Writing itself is only about 5,000 years old. The pyramids, the oldest structures most of us can recognize on sight, are roughly 4,500. Every empire, every religion, every language you have ever spoken is younger than this warning needs to last. Ask yourself what you can personally read from 10,000 years ago, and the honest answer is nothing, because there is nothing to read. The task was to leave a note for people as far from us as we are from the first farmers, and to somehow make them not only find it but believe it.
 
-The ancient Greeks noticed that certain frequency ratios produce intervals that sound beautiful. A perfect fifth -- the interval between C and G -- has a frequency ratio of exactly 3:2. An octave is exactly 2:1. These aren't arbitrary aesthetic preferences. They're the ratios of the lowest harmonics that appear naturally when a string vibrates, so your auditory system recognizes them almost instinctively as consonant.
+The danger is real and specific. Some of what is down there will still be hazardous long after the marble on every monument we have built has worn to gravel. The deep salt will likely hold the waste safely on its own. The whole problem is the surface, and the message we leave on it.
 
-Building a full chromatic scale from these pure ratios seems straightforward at first. Start on a note, stack perfect fifths -- C to G, G to D, D to A, and so on through all twelve notes -- and after twelve steps you should arrive back at your starting note, just seven octaves higher. Frequency is multiplicative, so twelve perfect fifths equals (3/2)^12, which is about 129.746.
+## The Problem With Every Language
 
-Seven octaves equals 2^7, which is exactly 128.
+The obvious move is to write the word for danger and be done with it. But no language survives intact across that kind of gulf. English from only a thousand years ago is unreadable to a modern speaker without special training, and a thousand years is a tenth of what we need. Words die, grammar shifts, whole tongues vanish. Symbols are even worse. The skull and crossbones has meant poison, pirates, a brand of hair pomade, and an army's banner, depending on the century. The radiation trefoil means nothing at all to anyone who was never taught it. Even an image of a person fleeing in terror is not safe, because it could read as a warning, or as a defeated enemy, or as a god who needs to be appeased at exactly the spot you most want people to avoid.
 
-Those two numbers are not the same. The gap between them is about 1.36%, or 23.46 cents. A cent is one one-hundredth of a semitone, so this is roughly a quarter of a semitone sitting between where the math of pure intervals ends up and where an octave actually is.
+## Thorns, Priests, and Glowing Cats
 
-That gap is called the **Pythagorean comma**, and it breaks everything.
+In the early 1990s the people responsible did the only sane thing available to them. They gathered a panel of linguists, anthropologists, materials scientists, science fiction writers, and artists, and asked them to design a message for the deep future. The proposals that came back read like a fever dream, and every one of them was offered in complete seriousness.
 
-## The Comma That Breaks the Circle
+One idea was to make the land itself feel wrong. The architect Michael Brill sketched a landscape of thorns, a forest of huge concrete spikes erupting from the ground at broken angles, a place that fills you with dread just to stand in. No words, only the built-in sense that nothing good happens here. Others drew fields of jagged spikes and black slabs designed to bake in the sun until they were too hot to approach.
 
-Pythagorean tuning, which dominated Western music through most of the medieval period, simply stacked those pure fifths and accepted the consequences. The first eleven fifths sounded fine. The twelfth didn't. The interval that closed the circle, usually placed between G-sharp and E-flat in a keyboard, was so badly out of tune it had a name: the wolf fifth. Play it and you understand why. It sounds like two notes fighting each other.
+The semiotician Thomas Sebeok proposed an atomic priesthood, a self-renewing institution that would keep the danger alive as ritual and taboo, handing it down through the generations the way religions have carried their stories for thousands of years, whether or not anyone still understood the science underneath. And two researchers offered the strangest idea of all: breed cats that change color in the presence of radiation, then seed the culture with songs and sayings about how, when your cat turns colors, it is time to leave. The ray cat would outlive the language that made it, and the folklore would do the work the engineering could not.
 
-Performers and composers learned to avoid the wolf fifth. They organized their music around keys that stayed away from it. This worked, but it meant some keys were essentially off-limits for harmonic writing. A lutenist in 1500 who wanted to modulate from C major to F-sharp major was out of luck. The instrument couldn't support it.
+## The Sentence Built to Survive
 
-The Renaissance and Baroque periods produced a parade of alternative tuning systems all trying to tame the comma. Meantone temperament, developed around 1523 by Pietro Aron, distributed the Pythagorean comma across the fifths differently, making thirds much purer at the cost of making some fifths even worse. Quarter-comma meantone was widespread for nearly 200 years. It made the keys of C, G, D, F, and B-flat sound gorgeous and made G-sharp major sound catastrophic.
+The panel also drafted words, in case words made it through, and the passage they wrote has a flat, almost biblical weight to it:
 
-&gt; Every tuning system is a political decision: choose which keys sound beautiful, and assign the ugliness somewhere you hope nobody visits.
+&gt; This place is not a place of honor. No highly esteemed deed is commemorated here. Nothing valued is here. What is here was dangerous and repulsive to us. The danger is still present, in your time, as it was in ours.
 
-## Bach's Demonstration in 24 Keys
+Read it twice. It is trying to do something almost no message in human history has ever attempted. It wants to be found, and then it wants to convince the finder that there is no treasure, no glory, no secret here worth digging for. Every other message we have buried, in tombs and cornerstones and time capsules, was an invitation. This one is the exact opposite, and we already know how that tends to go. The Egyptians sealed their tombs with curses and guardians, and we pried them open anyway, treating the warning as a map to the gold. We are now trying to write a keep-out sign for people who, if they are anything like us, will read the word danger and hear the words something valuable is hidden here.
 
-In 1722, Johann Sebastian Bach published the first volume of the *Well-Tempered Clavier*, a set of 24 preludes and fugues, one in every major and minor key. Not because he particularly wanted to write in B-flat minor. Because he was making an argument.
+## The Honest Admission Underneath
 
-The argument was this: a well-tempered instrument, tuned by distributing the comma unevenly but deliberately across the circle of fifths, could play in all 24 keys without any of them being unusable. Not perfect, but acceptable everywhere. Bach was demonstrating a tuning philosophy, not just composing music.
+What makes the whole project so haunting is the quiet thing sitting at the center of it. We do not actually know how to do this. After all the panels and the proposals, the real plan at the New Mexico site is modest and a little resigned: granite markers and earthen berms, the warning carved in seven languages with blank stone left for future ones, and a buried room of information for anyone who digs. It is a careful, serious effort, and not one person involved believes it will certainly work. They are dropping a message in a bottle into time instead of across an ocean, with no way to know whether it will ever be opened, or read, or believed.
 
-Exactly which temperament Bach intended is still debated by musicologists. Andreas Werckmeister had published several "well-temperament" systems in 1691, and there were others. The key feature of any well-temperament was that the wolf fifth was eliminated by spreading its ugliness around, and common keys got the best intervals while remote keys got slightly worse ones.
-
-Equal temperament, the system almost all Western instruments use today, takes this logic to its endpoint. Instead of distributing the comma unevenly, it distributes the comma perfectly evenly across all twelve fifths. Every fifth is made slightly flat by exactly 1/12 of the Pythagorean comma, which works out to about 1.96 cents per fifth. The result is a circle of fifths that closes precisely, and a keyboard on which every key is exactly as in-tune (or out of tune) as every other key.
-
-Equal temperament was mathematically understood in China by Zhu Zaiyu in 1584 and in Europe by Simon Stevin around the same time. But it wasn't widely adopted on keyboard instruments until the 19th century, when piano manufacturing scaled up and instrument makers needed a single standard. By the 1850s, it was effectively universal.
-
-## What You're Actually Hearing
-
-In equal temperament, no interval except the octave is acoustically pure. The perfect fifth is about two cents flat. The major third is 14 cents sharp, which is a noticeable deviation from a just 5:4 ratio. If you put a just major third and an equal-tempered major third side by side, the equal-tempered one sounds slightly tense, almost buzzy, compared to the pure one's stillness.
-
-And yet most people raised on Western music prefer it. The equal-tempered third has become the expected sound. The pure third sounds, to many listeners, slightly flat.
-
-This is what makes the compromise so elegant. Equal temperament doesn't actually hide the fact that it's wrong. Your ear learns to hear the slight tension in equal-tempered intervals as normal, even desirable. The very thing that marks these intervals as mathematically impure becomes part of the characteristic sound of a piano, a guitar, a marimba.
-
-String quartets, freed from fixed frets and piano strings, often adjust toward just intonation unconsciously in sustained passages. Barbershop quartets notoriously do the same. When four voices lock into a perfectly pure chord, the harmonics align so precisely that a fifth "phantom" voice seems to appear from nowhere, audible above the four singers. No piano can produce that effect. The piano's tuning eliminates the possibility.
-
-Every piano tuner knows this. They also know that piano strings don't vibrate as perfect mathematical strings (they're stiff, not infinitely flexible), so their harmonics run slightly sharp relative to the fundamental. To compensate, piano tuners "stretch" the tuning: the top notes are tuned slightly sharper than equal temperament predicts, and the bottom notes slightly flatter. An objectively equal-tempered piano sounds flat in the high registers to most listeners. So even the equal temperament on a real piano isn't quite equal temperament. It's an approximation of an approximation.
-
-The whole system is a beautiful, interlocking set of lies, and it works.
+We are very good at sending things into the future by accident. Pottery, bones, plastic, the carbon we have added to the air. Doing it on purpose, with one specific meaning that has to arrive intact, turns out to be one of the hardest things we have ever tried. The future is a country we cannot visit and whose language we cannot learn, and we are standing at its border trying to shout a single word across, hoping it lands as a warning and not as a dare.
 
 ## Why I Wrote About This
 
-I'd known vaguely that "equal temperament is a compromise" for years without understanding what the actual problem was. When I finally looked up the Pythagorean comma and worked through the arithmetic myself -- (3/2)^12 versus 2^7 -- I found the gap genuinely startling. It felt like finding a crack in something I'd assumed was solid. The fact that Western music built an entire civilization of harmony on top of that crack, and that the crack is inaudible to most people most of the time, struck me as one of the more elegant workarounds in the history of human problem-solving.</content>
+I build things meant to last. Websites, books, this little blog, and I quietly tell myself they will still mean something in a year, maybe ten. This stretched that instinct until it snapped. There is something clarifying about a problem measured in hundreds of generations, where every clever solution dissolves and you are left holding nothing but humility. Most of what any of us makes is a small bet that the future will understand us, and we almost never have to learn whether we were right. Here, a group of people poured that bet into concrete and admitted, out loud and on the record, that they might be wrong, and I find that strangely moving.</content>
   </entry>
   <entry>
     <title>The Color With No Wavelength</title>

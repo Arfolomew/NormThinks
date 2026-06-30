@@ -9,15 +9,6 @@
     "pill_label": "Mycology"
   },
   {
-    "slug": "the-lie-every-piano-tells",
-    "title": "The Lie Every Piano Tells",
-    "date": "2026-06-29",
-    "excerpt": "Every piano in the world is mathematically out of tune. Not by accident. By design, as a compromise three centuries in the making.",
-    "image": "Assets/posts/the-lie-every-piano-tells.jpg",
-    "read_time": "6",
-    "pill_label": "Music Theory"
-  },
-  {
     "slug": "the-color-with-no-wavelength",
     "title": "The Color With No Wavelength",
     "date": "2026-06-28",
@@ -102,7 +93,7 @@
     "slug": "eleven-days-no-sleep",
     "title": "Eleven Days, No Sleep",
     "date": "2026-06-19",
-    "excerpt": "Every autumn, a pigeon-sized bird leaves Alaska and flies nonstop to New Zealand. No food, no water, no landing \u2014 for eleven days.",
+    "excerpt": "Every autumn, a pigeon-sized bird leaves Alaska and flies nonstop to New Zealand. No food, no water, no landing — for eleven days.",
     "image": "Assets/posts/eleven-days-no-sleep.jpg",
     "read_time": "6",
     "pill_label": "Migration"
@@ -174,7 +165,7 @@
     "slug": "crows-remember-your-face",
     "title": "What Crows Know About You",
     "date": "2026-06-11",
-    "excerpt": "A researcher at the University of Washington wore a caveman mask while trapping crows. Their offspring \u2014 who were never trapped \u2014 still mob that face today.",
+    "excerpt": "A researcher at the University of Washington wore a caveman mask while trapping crows. Their offspring — who were never trapped — still mob that face today.",
     "image": "Assets/posts/crows-remember-your-face.jpg",
     "read_time": "6",
     "pill_label": "Animal Cognition"
@@ -183,7 +174,7 @@
     "slug": "the-lie-inside-every-piano",
     "title": "The Lie Inside Every Piano",
     "date": "2026-06-10",
-    "excerpt": "Every note on a piano is slightly out of tune. Not by accident \u2014 by design. The mathematics of why this had to happen.",
+    "excerpt": "Every note on a piano is slightly out of tune. Not by accident — by design. The mathematics of why this had to happen.",
     "image": "Assets/posts/the-lie-inside-every-piano.jpg",
     "read_time": "6",
     "pill_label": "Music Theory"
@@ -214,5 +205,14 @@
     "image": "Assets/posts/the-crumbling-clock.jpg",
     "read_time": "5",
     "pill_label": "Physics"
+  },
+  {
+    "slug": "the-warning-we-dont-know-how-to-write",
+    "title": "The Warning We Don't Know How to Write",
+    "date": "2026-06-29",
+    "excerpt": "The nuclear waste buried under the New Mexico desert stays deadly for 10,000 years, longer than writing has existed. Designing a sign to warn people we will never meet, in a language that does not exist yet, turns out to be one of the hardest things we have ever tried.",
+    "image": "Assets/posts/the-warning-we-dont-know-how-to-write.jpg",
+    "read_time": "5",
+    "pill_label": "Deep Time"
   }
 ]
