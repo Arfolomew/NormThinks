@@ -1,14 +1,5 @@
 [
   {
-    "slug": "light-from-dead-stars",
-    "title": "The Light That Left Before It Died",
-    "date": "2026-07-01",
-    "excerpt": "Every star you see is old light. Some have already collapsed. The universe we map is built from expired photographs.",
-    "image": "Assets/posts/light-from-dead-stars.jpg",
-    "read_time": "6",
-    "pill_label": "ASTRONOMY"
-  },
-  {
     "slug": "the-organism-beneath-the-forest",
     "title": "The Organism Beneath the Forest",
     "date": "2026-06-30",
@@ -16,6 +7,15 @@
     "image": "Assets/posts/the-organism-beneath-the-forest.jpg",
     "read_time": "7",
     "pill_label": "Mycology"
+  },
+  {
+    "slug": "the-lie-every-piano-tells",
+    "title": "The Lie Every Piano Tells",
+    "date": "2026-06-29",
+    "excerpt": "Every piano in the world is mathematically out of tune. Not by accident. By design, as a compromise three centuries in the making.",
+    "image": "Assets/posts/the-lie-every-piano-tells.jpg",
+    "read_time": "6",
+    "pill_label": "Music Theory"
   },
   {
     "slug": "the-color-with-no-wavelength",
@@ -34,6 +34,15 @@
     "image": "Assets/posts/the-door-you-didnt-choose.jpg",
     "read_time": "7",
     "pill_label": "Probability"
+  },
+  {
+    "slug": "birds-that-remember-faces",
+    "title": "The Birds That Remember Your Face",
+    "date": "2026-06-26",
+    "excerpt": "In 2006, a biologist caught seven crows in a net. Years later, their offspring were still scolding anyone who wore his mask.",
+    "image": "Assets/posts/birds-that-remember-faces.jpg",
+    "read_time": "6",
+    "pill_label": "Animal Cognition"
   },
   {
     "slug": "why-rivers-curve",
@@ -205,23 +214,5 @@
     "image": "Assets/posts/the-crumbling-clock.jpg",
     "read_time": "5",
     "pill_label": "Physics"
-  },
-  {
-    "slug": "the-warning-we-dont-know-how-to-write",
-    "title": "The Warning We Don't Know How to Write",
-    "date": "2026-06-29",
-    "excerpt": "The nuclear waste buried under the New Mexico desert stays deadly for 10,000 years, longer than writing has existed. Designing a sign to warn people we will never meet, in a language that does not exist yet, turns out to be one of the hardest things we have ever tried.",
-    "image": "Assets/posts/the-warning-we-dont-know-how-to-write.jpg",
-    "read_time": "5",
-    "pill_label": "Deep Time"
-  },
-  {
-    "slug": "the-storyteller-in-your-head",
-    "title": "The Storyteller in Your Head",
-    "date": "2026-06-26",
-    "excerpt": "Split-brain patients revealed something unsettling: a module in your left hemisphere invents confident reasons for choices it never made, and you cannot tell when it is improvising. The narrator of your life is making most of it up.",
-    "image": "Assets/posts/the-storyteller-in-your-head.jpg",
-    "read_time": "5",
-    "pill_label": "Mind"
   }
 ]
