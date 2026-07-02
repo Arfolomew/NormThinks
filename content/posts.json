@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-town-that-wasnt",
+    "title": "The Town That Wasn't There",
+    "date": "2026-07-02",
+    "excerpt": "In the 1930s, two mapmakers invented a fictional New York town as a copyright trap. Then someone built a store there and named it after the lie.",
+    "image": "Assets/posts/the-town-that-wasnt.jpg",
+    "read_time": "5",
+    "pill_label": "CARTOGRAPHY"
+  },
+  {
     "slug": "light-from-dead-stars",
     "title": "The Light That Left Before It Died",
     "date": "2026-07-01",
