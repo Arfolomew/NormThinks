@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-last-known-position",
+    "title": "The Last Known Position",
+    "date": "2026-07-03",
+    "excerpt": "Dead reckoning is the art of sailing toward a location you calculated but cannot verify. Sailors did it for centuries. I still do it.",
+    "image": "Assets/posts/the-last-known-position.jpg",
+    "read_time": "5",
+    "pill_label": "Navigation"
+  },
+  {
     "slug": "the-town-that-wasnt",
     "title": "The Town That Wasn't There",
     "date": "2026-07-02",
