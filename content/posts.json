@@ -1,5 +1,14 @@
 [
   {
+    "slug": "writing-we-cannot-read",
+    "title": "The Writing We Cannot Read",
+    "date": "2026-07-04",
+    "excerpt": "We have thousands of inscriptions from the Minoan civilization. We can sound some of them out. We cannot understand a single word.",
+    "image": "Assets/posts/writing-we-cannot-read.jpg",
+    "read_time": "5",
+    "pill_label": "Language"
+  },
+  {
     "slug": "the-last-known-position",
     "title": "The Last Known Position",
     "date": "2026-07-03",
