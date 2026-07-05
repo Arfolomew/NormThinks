@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-waking-that-tells-her-nothing",
+    "title": "The Waking That Tells Her Nothing",
+    "date": "2026-07-05",
+    "excerpt": "A coin flip, a sleep, and a question that professional philosophers have argued about for twenty-five years without resolving.",
+    "image": "Assets/posts/the-waking-that-tells-her-nothing.jpg",
+    "read_time": "6",
+    "pill_label": "PHILOSOPHY"
+  },
+  {
     "slug": "writing-we-cannot-read",
     "title": "The Writing We Cannot Read",
     "date": "2026-07-04",
