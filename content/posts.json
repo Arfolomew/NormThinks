@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-floor-that-isnt-there",
+    "title": "The Floor That Isn't There",
+    "date": "2026-07-06",
+    "excerpt": "During WWII, sonar operators kept finding a seafloor that moved. It rose at dusk, sank at dawn, and turned out to be billions of animals.",
+    "image": "Assets/posts/the-floor-that-isnt-there.jpg",
+    "read_time": "6",
+    "pill_label": "OCEAN"
+  },
+  {
     "slug": "the-waking-that-tells-her-nothing",
     "title": "The Waking That Tells Her Nothing",
     "date": "2026-07-05",
