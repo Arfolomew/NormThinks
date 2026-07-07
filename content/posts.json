@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-memory-without-a-source",
+    "title": "The Memory Without a Source",
+    "date": "2026-07-07",
+    "excerpt": "In 1976, a judge ruled George Harrison had committed copyright infringement. He hadn't meant to steal the melody. He just forgot he'd ever heard it.",
+    "image": "Assets/posts/the-memory-without-a-source.jpg",
+    "read_time": "5",
+    "pill_label": "MEMORY"
+  },
+  {
     "slug": "the-floor-that-isnt-there",
     "title": "The Floor That Isn't There",
     "date": "2026-07-06",
