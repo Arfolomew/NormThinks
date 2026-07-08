@@ -1,5 +1,14 @@
 [
   {
+    "slug": "what-the-rock-forgot",
+    "title": "What the Rock Forgot",
+    "date": "2026-07-08",
+    "excerpt": "Most organisms that ever lived left nothing behind. The fossil record is a selection bias buried in stone.",
+    "image": "Assets/posts/what-the-rock-forgot.jpg",
+    "read_time": "5",
+    "pill_label": "PALEONTOLOGY"
+  },
+  {
     "slug": "the-memory-without-a-source",
     "title": "The Memory Without a Source",
     "date": "2026-07-07",
