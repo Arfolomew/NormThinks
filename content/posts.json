@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-coastline-that-has-no-length",
+    "title": "The Coastline That Has No Length",
+    "date": "2026-07-09",
+    "excerpt": "The length of a coastline depends entirely on the scale of measurement. Zoom in, and it grows. There is no true answer.",
+    "image": "Assets/posts/the-coastline-that-has-no-length.jpg",
+    "read_time": "6",
+    "pill_label": "MATHEMATICS"
+  },
+  {
     "slug": "what-the-rock-forgot",
     "title": "What the Rock Forgot",
     "date": "2026-07-08",
