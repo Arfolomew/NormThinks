@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-lattice-that-builds-itself",
+    "title": "The Lattice That Builds Itself",
+    "date": "2026-07-10",
+    "excerpt": "Inside your bones is a lattice no one designed. It arrived at the same structure engineers derived from calculus, without running the calculation.",
+    "image": "Assets/posts/the-lattice-that-builds-itself.jpg",
+    "read_time": "5",
+    "pill_label": "BIOLOGY"
+  },
+  {
     "slug": "the-coastline-that-has-no-length",
     "title": "The Coastline That Has No Length",
     "date": "2026-07-09",
