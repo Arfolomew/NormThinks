@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-sympathy-of-clocks",
+    "title": "The Sympathy of Clocks",
+    "date": "2026-07-12",
+    "excerpt": "In 1665, Christiaan Huygens noticed two pendulum clocks on the same wall had started ticking in perfect unison. He pushed them apart. They found each other again.",
+    "image": "Assets/posts/the-sympathy-of-clocks.jpg",
+    "read_time": "7",
+    "pill_label": "Physics"
+  },
+  {
     "slug": "what-the-body-knows",
     "title": "What the Body Knows Without You",
     "date": "2026-07-11",
