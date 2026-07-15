@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-planet-nobody-saw",
+    "title": "The Planet Nobody Saw",
+    "date": "2026-07-15",
+    "excerpt": "In 1846, two mathematicians predicted the position of Neptune without ever looking at it. What they followed was the shape of its absence.",
+    "image": "Assets/posts/the-planet-nobody-saw.jpg",
+    "read_time": "7",
+    "pill_label": "Astronomy"
+  },
+  {
     "slug": "the-mound-with-no-architect",
     "title": "The Mound With No Architect",
     "date": "2026-07-14",
