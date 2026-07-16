@@ -1,5 +1,14 @@
 [
   {
+    "slug": "bamboo-control-tower",
+    "title": "The Bamboo Control Tower",
+    "date": "2026-07-16",
+    "excerpt": "After WWII, Melanesian islanders built airstrips from bamboo and wooden headphones, waiting for cargo that never returned. Their logic was sound. Their access to the causal chain was not.",
+    "image": "Assets/posts/bamboo-control-tower.jpg",
+    "read_time": "6",
+    "pill_label": "ANTHROPOLOGY"
+  },
+  {
     "slug": "the-planet-nobody-saw",
     "title": "The Planet Nobody Saw",
     "date": "2026-07-15",
