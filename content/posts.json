@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-press-that-hid-itself",
+    "title": "The Press That Hid Itself",
+    "date": "2026-07-17",
+    "excerpt": "Gutenberg's Bible used nearly 300 different letter shapes. Not for beauty. To make sure nobody could tell it was printed.",
+    "image": "Assets/posts/the-press-that-hid-itself.jpg",
+    "read_time": "6",
+    "pill_label": "Typography"
+  },
+  {
     "slug": "bamboo-control-tower",
     "title": "The Bamboo Control Tower",
     "date": "2026-07-16",
