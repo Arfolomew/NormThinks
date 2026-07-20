@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-text-beneath-the-text",
+    "title": "The Text Beneath the Text",
+    "date": "2026-07-20",
+    "excerpt": "In 1906, a Danish philologist found something extraordinary inside a 13th-century prayer book. The story of how a palimpsest saved Archimedes.",
+    "image": "Assets/posts/the-text-beneath-the-text.jpg",
+    "read_time": "6",
+    "pill_label": "MANUSCRIPTS"
+  },
+  {
     "slug": "the-cold-fire-in-the-deep",
     "title": "The Cold Fire in the Deep",
     "date": "2026-07-19",
