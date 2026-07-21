@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-chess-player-inside-the-machine",
+    "title": "The Chess Player Inside the Machine",
+    "date": "2026-07-21",
+    "excerpt": "In 1770, a chess-playing automaton beat Napoleon and baffled Europe for 85 years. The secret was a human hidden inside.",
+    "image": "Assets/posts/the-chess-player-inside-the-machine.jpg",
+    "read_time": "6",
+    "pill_label": "HISTORY"
+  },
+  {
     "slug": "the-text-beneath-the-text",
     "title": "The Text Beneath the Text",
     "date": "2026-07-20",
