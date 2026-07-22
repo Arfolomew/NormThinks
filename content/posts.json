@@ -1,5 +1,14 @@
 [
   {
+    "slug": "what-the-channel-doesnt-know",
+    "title": "What the Channel Doesn\u2019t Know",
+    "date": "2026-07-22",
+    "excerpt": "Claude Shannon\u2019s 1948 paper on information theory deliberately excluded meaning. A theory of communication that never asks what anything means.",
+    "image": "Assets/posts/what-the-channel-doesnt-know.jpg",
+    "read_time": "5",
+    "pill_label": "INFORMATION THEORY"
+  },
+  {
     "slug": "the-chess-player-inside-the-machine",
     "title": "The Chess Player Inside the Machine",
     "date": "2026-07-21",
