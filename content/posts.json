@@ -1,5 +1,14 @@
 [
   {
+    "slug": "blue-without-blue",
+    "title": "Blue Without Blue",
+    "date": "2026-07-23",
+    "excerpt": "The morpho butterfly is one of the most vivid blues in nature. There is no blue pigment anywhere in its wings.",
+    "image": "Assets/posts/blue-without-blue.jpg",
+    "read_time": "5",
+    "pill_label": "NATURE"
+  },
+  {
     "slug": "what-the-channel-doesnt-know",
     "title": "What the Channel Doesn\u2019t Know",
     "date": "2026-07-22",
