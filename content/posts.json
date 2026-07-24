@@ -1,5 +1,14 @@
 [
   {
+    "slug": "last-leap-second",
+    "title": "The Last Leap Second",
+    "date": "2026-07-24",
+    "excerpt": "Since 1972, the world has added 27 spare seconds to the clock to keep atomic time tethered to the Earth. In 2023, we voted to stop.",
+    "image": "Assets/posts/last-leap-second.jpg",
+    "read_time": "5",
+    "pill_label": "TIMEKEEPING"
+  },
+  {
     "slug": "blue-without-blue",
     "title": "Blue Without Blue",
     "date": "2026-07-23",
