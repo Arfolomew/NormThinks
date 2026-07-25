@@ -1,5 +1,14 @@
 [
   {
+    "slug": "reading-the-swell",
+    "title": "Reading the Swell",
+    "date": "2026-07-25",
+    "excerpt": "A Micronesian navigator guided a 62-foot canoe from Hawaii to Tahiti using no instruments. The system he used inverts the entire Western idea of navigation.",
+    "image": "Assets/posts/reading-the-swell.jpg",
+    "read_time": "6",
+    "pill_label": "Navigation"
+  },
+  {
     "slug": "last-leap-second",
     "title": "The Last Leap Second",
     "date": "2026-07-24",
