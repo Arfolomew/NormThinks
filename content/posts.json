@@ -1,5 +1,14 @@
 [
   {
+    "slug": "what-the-turtle-knows-about-home",
+    "title": "What the Turtle Knows About Home",
+    "date": "2026-07-27",
+    "excerpt": "A loggerhead sea turtle spends 30 years at sea, then swims back to the exact beach where she hatched. She navigates by a map she was born with and cannot explain.",
+    "image": "Assets/posts/what-the-turtle-knows-about-home.jpg",
+    "read_time": "7",
+    "pill_label": "NAVIGATION"
+  },
+  {
     "slug": "the-forgers-first-digit",
     "title": "The Digit the Forger Always Gets Wrong",
     "date": "2026-07-26",
