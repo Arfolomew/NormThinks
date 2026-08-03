@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-wine-the-yeast-never-tasted",
+    "title": "The Wine the Yeast Never Tasted",
+    "date": "2026-08-03",
+    "excerpt": "Wine is yeast excrement. The organism that makes it has no concept of wine, no access to its meaning, and no idea it is making anything at all.",
+    "image": "Assets/posts/the-wine-the-yeast-never-tasted.jpg",
+    "read_time": "7",
+    "pill_label": "FERMENTATION"
+  },
+  {
     "slug": "the-bias-in-the-bone",
     "title": "The Bias in the Bone",
     "date": "2026-07-30",
