@@ -1,5 +1,14 @@
 [
   {
+    "slug": "wind-you-have-to-read",
+    "title": "The Wind You Have to Read",
+    "date": "2026-08-04",
+    "excerpt": "Francis Beaufort couldn't measure wind speed, so in 1806 he built a system for measuring what wind does instead. It reveals something strange about how all knowledge works.",
+    "image": "Assets/posts/wind-you-have-to-read.jpg",
+    "read_time": "5",
+    "pill_label": "SCIENCE"
+  },
+  {
     "slug": "the-wine-the-yeast-never-tasted",
     "title": "The Wine the Yeast Never Tasted",
     "date": "2026-08-03",
