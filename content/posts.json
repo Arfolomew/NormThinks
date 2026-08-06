@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-map-that-lies",
+    "title": "The Map That Lies in Every Direction",
+    "date": "2026-08-06",
+    "excerpt": "Gerardus Mercator solved navigation in 1569. The map that resulted became our default view of the world, and it systematically lies.",
+    "image": "Assets/posts/the-map-that-lies.jpg",
+    "read_time": "5",
+    "pill_label": "CARTOGRAPHY"
+  },
+  {
     "slug": "the-limb-that-isnt-there",
     "title": "The Limb That Isn't There",
     "date": "2026-08-05",
