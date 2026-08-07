@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-year-the-sun-went-pale",
+    "title": "The Year the Sun Went Pale",
+    "date": "2026-08-07",
+    "excerpt": "In 536 AD, a volcanic eruption dimmed the sun for eighteen months. Fifteen centuries later, we read the event in ice, wood, and parchment simultaneously.",
+    "image": "Assets/posts/the-year-the-sun-went-pale.jpg",
+    "read_time": "7",
+    "pill_label": "HISTORY"
+  },
+  {
     "slug": "the-map-that-lies",
     "title": "The Map That Lies in Every Direction",
     "date": "2026-08-06",
