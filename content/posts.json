@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-invention-nobody-could-claim",
+    "title": "The Invention Nobody Could Claim",
+    "date": "2026-08-08",
+    "excerpt": "James Ellis invented public key cryptography in 1970. His name stayed secret for 27 years. He died three weeks before anyone could know.",
+    "image": "Assets/posts/the-invention-nobody-could-claim.jpg",
+    "read_time": "7",
+    "pill_label": "CRYPTOGRAPHY"
+  },
+  {
     "slug": "the-year-the-sun-went-pale",
     "title": "The Year the Sun Went Pale",
     "date": "2026-08-07",
