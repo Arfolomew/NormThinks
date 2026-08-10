@@ -1,5 +1,14 @@
 [
   {
+    "slug": "what-the-earthquake-knows",
+    "title": "What the Earthquake Knows",
+    "date": "2026-08-10",
+    "excerpt": "We have mapped every layer of Earth's interior without ever touching any of it. The whole picture was built from waves.",
+    "image": "Assets/posts/what-the-earthquake-knows.jpg",
+    "read_time": "6",
+    "pill_label": "GEOPHYSICS"
+  },
+  {
     "slug": "the-world-the-tick-lives-in",
     "title": "The World the Tick Lives In",
     "date": "2026-08-09",
