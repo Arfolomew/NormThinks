@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-fold-already-there",
+    "title": "The Fold That Was Already There",
+    "date": "2026-08-11",
+    "excerpt": "A sheet of paper already contains the structure it will become. Origami mathematics, crease patterns, and the laws that govern what flat things can unfold into.",
+    "image": "Assets/posts/the-fold-already-there.jpg",
+    "read_time": "6",
+    "pill_label": "MATHEMATICS"
+  },
+  {
     "slug": "what-the-earthquake-knows",
     "title": "What the Earthquake Knows",
     "date": "2026-08-10",
