@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-clock-in-the-wood",
+    "title": "The Clock in the Wood",
+    "date": "2026-08-13",
+    "excerpt": "A tree's rings don't just record its age. They encode centuries of climate, volcanic winters, and historical events -- and can date a medieval beam to the year.",
+    "image": "Assets/posts/the-clock-in-the-wood.jpg",
+    "read_time": "5",
+    "pill_label": "DENDROCHRONOLOGY"
+  },
+  {
     "slug": "the-song-nobody-owns",
     "title": "The Song Nobody Owns",
     "date": "2026-08-12",
