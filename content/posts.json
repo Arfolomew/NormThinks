@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-sky-we-cannot-empty",
+    "title": "The Sky We Cannot Empty",
+    "date": "2026-08-14",
+    "excerpt": "In 1978, a NASA scientist calculated the point at which orbital debris becomes self-sustaining. We may have already passed it.",
+    "image": "Assets/posts/the-sky-we-cannot-empty.jpg",
+    "read_time": "7",
+    "pill_label": "ORBITAL PHYSICS"
+  },
+  {
     "slug": "the-clock-in-the-wood",
     "title": "The Clock in the Wood",
     "date": "2026-08-13",
