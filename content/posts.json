@@ -1,5 +1,14 @@
 [
   {
+    "slug": "election-that-cant-be-fair",
+    "title": "The Election That Can't Be Fair",
+    "date": "2026-08-15",
+    "excerpt": "In 1950, a mathematician set out to prove democracy had a formal foundation. He proved it couldn't be built.",
+    "image": "Assets/posts/election-that-cant-be-fair.jpg",
+    "read_time": "7",
+    "pill_label": "SOCIAL CHOICE"
+  },
+  {
     "slug": "the-sky-we-cannot-empty",
     "title": "The Sky We Cannot Empty",
     "date": "2026-08-14",
