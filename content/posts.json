@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-demon-who-forgets",
+    "title": "The Demon Who Forgets",
+    "date": "2026-08-16",
+    "excerpt": "Maxwell invented a demon in 1867 that sorted molecules without spending energy. For 62 years, no one could say what was wrong with that.",
+    "image": "Assets/posts/the-demon-who-forgets.jpg",
+    "read_time": "6",
+    "pill_label": "THERMODYNAMICS"
+  },
+  {
     "slug": "election-that-cant-be-fair",
     "title": "The Election That Can't Be Fair",
     "date": "2026-08-15",
