@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-eye-that-got-there-first",
+    "title": "The Eye That Got There First",
+    "date": "2026-08-18",
+    "excerpt": "Trilobite eyes from 400 million years ago were built from calcite and solved an optics problem that Descartes and Huygens would not formalize for another 400 million years.",
+    "image": "Assets/posts/the-eye-that-got-there-first.jpg",
+    "read_time": "5",
+    "pill_label": "PALEONTOLOGY"
+  },
+  {
     "slug": "the-demon-who-forgets",
     "title": "The Demon Who Forgets",
     "date": "2026-08-16",
