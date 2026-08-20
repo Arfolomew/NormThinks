@@ -1,5 +1,14 @@
 [
   {
+    "slug": "the-light-the-moth-trusts",
+    "title": "The Light the Moth Trusts",
+    "date": "2026-08-20",
+    "excerpt": "Moths don't fly into flames because they're drawn to light. They're navigating by it -- using an algorithm that worked for 300 million years, until artificial lights moved the moon indoors.",
+    "image": "Assets/posts/the-light-the-moth-trusts.jpg",
+    "read_time": "5",
+    "pill_label": "BIOLOGY"
+  },
+  {
     "slug": "why-smell-has-no-words",
     "title": "Why Smell Has No Words",
     "date": "2026-08-19",
